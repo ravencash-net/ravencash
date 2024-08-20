@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/ravencash_ar.qm</file>
+        <file alias="bg">locale/ravencash_bg.qm</file>
+        <file alias="de">locale/ravencash_de.qm</file>
+        <file alias="en">locale/ravencash_en.qm</file>
+        <file alias="es">locale/ravencash_es.qm</file>
+        <file alias="fi">locale/ravencash_fi.qm</file>
+        <file alias="fr">locale/ravencash_fr.qm</file>
+        <file alias="it">locale/ravencash_it.qm</file>
+        <file alias="ja">locale/ravencash_ja.qm</file>
+        <file alias="ko">locale/ravencash_ko.qm</file>
+        <file alias="nl">locale/ravencash_nl.qm</file>
+        <file alias="pl">locale/ravencash_pl.qm</file>
+        <file alias="pt">locale/ravencash_pt.qm</file>
+        <file alias="ro">locale/ravencash_ro.qm</file>
+        <file alias="ru">locale/ravencash_ru.qm</file>
+        <file alias="sk">locale/ravencash_sk.qm</file>
+        <file alias="th">locale/ravencash_th.qm</file>
+        <file alias="tr">locale/ravencash_tr.qm</file>
+        <file alias="vi">locale/ravencash_vi.qm</file>
+        <file alias="zh_CN">locale/ravencash_zh_CN.qm</file>
+        <file alias="zh_TW">locale/ravencash_zh_TW.qm</file>
+    </qresource>
+</RCC>

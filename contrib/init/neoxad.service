@@ -1,0 +1,22 @@
+[Unit]
+Description=RavenCash's distributed currency daemon
+After=network.target
+
+[Service]
+User=ravencashcore
+Group=ravencashcore
+
+Type=forking
+PIDFile=/var/lib/ravencashd/ravencashd.pid
+ExecStart=/usr/bin/ravencashd -daemon -pid=/var/lib/ravencashd/ravencashd.pid \
+-conf=/etc/ravencashcore/ravencash.conf -datadir=/var/lib/ravencashd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
