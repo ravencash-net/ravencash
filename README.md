@@ -14,19 +14,29 @@ The standout feature of RavenCash is its distinctive reward system that motivate
 
 Coin Information:
 
+
 Coin name: RavenCash
 
 Ticker: RVH
 
 Algorithm: KawPow
+
 Block time: 1 minute
+
 Halving: Every 1 million block
+
 Coin maturity: 100 block
+
 Masternode collateral: 65000 coin
+
 The total supply: 200,609,375 coins
+
 Number of confirmation before can be spend: 6 confirmation
+
 RPC PORT : 7961
+
 P2P PORT : 7817
+
 
 
 About tokenomics please visit our whitepaper link: 
