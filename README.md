@@ -39,7 +39,7 @@ P2P PORT : 7817
 
 
 
-About tokenomics please visit our whitepaper link: 
+About tokenomics, halving schedule please visit our whitepaper link: 
 https://whitepaper.ravencash.net/
 
 
