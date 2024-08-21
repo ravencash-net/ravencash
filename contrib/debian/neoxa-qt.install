@@ -1,6 +1,0 @@
-usr/local/bin/ravencash-qt usr/bin
-share/pixmaps/ravencash32.xpm usr/share/pixmaps
-share/pixmaps/ravencash16.xpm usr/share/pixmaps
-share/pixmaps/ravencash128.png usr/share/pixmaps
-debian/ravencash-qt.desktop usr/share/applications
-debian/ravencash-qt.protocol usr/share/kde4/services/
