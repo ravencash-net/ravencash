@@ -14,6 +14,7 @@ The standout feature of RavenCash is its distinctive reward system that motivate
 
 Coin Information:
 
+Coin name: RavenCash
 Ticker: RVH
 Algorithm: KawPow
 Block time: 1 minute
