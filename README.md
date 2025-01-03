@@ -8,7 +8,8 @@
 
 ## Introduction 🚩
 
-RavenCash is a blockchain platform optimized for decentralized digital currency transactions. The ultimate goal of RavenCash is to drive innovation in crypto cloud mining rentals, cloud computing, and other things related blockchain industry, by offering a secure, transparent, and decentralized solution that mutually benefits both users and providers.
+RavenCash is designed to bring together crypto enthusiasts, creators, and meme lovers. With its fun, engaging, and meme-driven environment, the goal is to create a coin that holds value not just in financial terms but in entertainment and social interaction.
+The purpose of RavenCash is to create a lighthearted and engaging cryptocurrency that can be used by anyone. The coin seeks to build a decentralized community of holders and content creators, leveraging the popularity of internet memes to spread awareness and increase adoption.
 
 The standout feature of RavenCash is its distinctive reward system that motivates node owners to offer dependable services and uphold the network's integrity, all while providing advantages to RavenCash coin holders. Through the platform's innovative mechanism, coin holders have the opportunity to garner additional rewards by locking their coins and actively participating in network validation.
 
